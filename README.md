@@ -45,7 +45,7 @@ Understanding the bank's loan portfolio is crucial for effective decision-making
 
 # Project Analysis: 2) SQL Analysis:
 #### Loan Applications:
-+ Total loan applications + Monthly loan applications + Previous month's monthly loan applications
++ Total loan applications | Monthly loan applications | Previous month's monthly loan applications.
 
 Funding Analysis:
 
