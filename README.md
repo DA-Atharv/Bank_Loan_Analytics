@@ -24,6 +24,7 @@ In the Power BI analysis for the Bank Loan Portfolio project, data cleaning and 
 + Tracks total loan applications, funded amount, and amount received.
 + Calculates average interest rate and debt-to-income ratio (DTI).
 + Analyzes good loan application percentage and bad loan application percentage.
+
 ![image](https://github.com/DA-Atharv/Bank_Loan_Analytics/assets/159448408/6e83040b-0929-449a-a9fc-837853783447)
 
 ### Dashboard 2: Overview
@@ -33,6 +34,7 @@ In the Power BI analysis for the Bank Loan Portfolio project, data cleaning and 
 + Visualizes changes in loan applications, funded amount, and amount received over time.
 + Identifies regional variations in loan activity.
 + Illustrates loan distribution based on term lengths, employment length, loan purposes, and home ownership.
+
 ![image](https://github.com/DA-Atharv/Bank_Loan_Analytics/assets/159448408/dccfd1bb-5cc5-4b3d-9fa0-94b735530b58)
 
 ### Dashboard 3: Details
@@ -43,13 +45,13 @@ In the Power BI analysis for the Bank Loan Portfolio project, data cleaning and 
 + Presents demographic information and borrower characteristics.
 + Tracks loan profitability, borrower financial health, and repayment behavior.
 + Provides a detailed report categorizing loans by status for easy tracking and analysis.
+
 ![image](https://github.com/DA-Atharv/Bank_Loan_Analytics/assets/159448408/529a2927-7cba-41d5-a309-86d1a2d6ff4b)
 
 # Project Analysis: 2) SQL Analysis: 
 In executing the Bank Loan Portfolio Analysis project, various SQL techniques were utilized. Aggregation functions computed key indicators, joins combined data, and CASE WHEN statements facilitated categorization. The GROUP BY clause aggregated data, the WHERE clause filtered it, and the DATEFORMAT function aided in trend analysis. These SQL techniques enabled the extraction of valuable insights, guiding decision-making within the banking institution. Enhanced risk management and portfolio optimization strategies were achieved, driven by data-driven insights derived from comprehensive loan data analysis.
 
-### Loan Applications: 
-+ Total loan applications | Monthly loan applications | Previous month's monthly loan applications.
+### Loan Applications:  Total loan applications | Monthly loan applications | Previous month's monthly loan applications.
 
 ### Funding Analysis:
 + Total funded amount | Monthly total funded amount | Previous month's total funded amount.
