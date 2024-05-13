@@ -51,8 +51,8 @@ In the Power BI analysis for the Bank Loan Portfolio project, data cleaning and 
 # Project Analysis: 2) SQL Analysis: 
 In executing the Bank Loan Portfolio Analysis project, various SQL techniques were utilized. Aggregation functions computed key indicators, joins combined data, and CASE WHEN statements facilitated categorization. The GROUP BY clause aggregated data, the WHERE clause filtered it, and the DATEFORMAT function aided in trend analysis. These SQL techniques enabled the extraction of valuable insights, guiding decision-making within the banking institution. Enhanced risk management and portfolio optimization strategies were achieved, driven by data-driven insights derived from comprehensive loan data analysis.
 
-### Loan Applications:  Total loan applications | Monthly loan applications | Previous month's monthly loan applications.
-
+### Loan Applications:  
++ Total loan applications | Monthly loan applications | Previous month's monthly loan applications.
 ### Funding Analysis:
 + Total funded amount | Monthly total funded amount | Previous month's total funded amount.
 
