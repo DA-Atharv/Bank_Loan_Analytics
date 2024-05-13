@@ -1,5 +1,6 @@
 # Bank_Loan_Analytics
-# Project Overview:
+![image](https://github.com/DA-Atharv/Bank_Loan_Analytics/assets/159448408/724cf95f-4875-4055-aab1-753cefdce6e1)
+# Project Overview: 
 The Bank Loan Portfolio Analysis project aims to leverage SQL queries and Power BI visualization tools to provide comprehensive insights into the bank's loan portfolio. By analyzing various loan metrics, the project seeks to enhance decision-making processes, mitigate risks, and optimize loan management strategies.
 
 # Significance:
